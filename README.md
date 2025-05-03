@@ -34,10 +34,13 @@ Early detection of breast cancer can save lives. This project shows how **machin
 ## 🖼️ Screenshots
 
 ### 📌 App Interface  
-![Screenshot 1](Breast Cancer Classifier/Screenshot 2023-04-30 22265411.png)
+![Screenshot 1](Screenshot1.png)
+
+### 📌 Terminology
+![Screenshot 2](Screenshot2.png)
 
 ### 📌 Classification Output  
-![Screenshot 2](path/to/your-image2.png)
+![Screenshot 3](Screenshot3.png)
 
 ---
 
